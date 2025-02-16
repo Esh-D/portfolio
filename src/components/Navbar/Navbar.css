@@ -7,7 +7,8 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-    background-color: ghostwhite;
+    background-color: whitesmoke;
+    opacity: 0.8;
 }
 
 .nav-list {
@@ -20,6 +21,14 @@
 
 .nav-item {
     margin: 30px;
+}
+
+.nav-item a {
+    color: darkslategray;
+}
+
+.nav-item a:hover {
+    color: grey;
 }
 
 .name {
