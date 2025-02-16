@@ -2,7 +2,9 @@ import './Hero.css'
 
 function Hero() {
     return (
-        <div id="hero">Hi, my name is Eshika Dey</div>
+        <div id="hero">
+            <h1>Hi, my name is <br/>Jane Doe</h1>
+        </div>
     )
 }
 

@@ -6,6 +6,12 @@
   width: 100%;
 }
 
+.heading {
+  margin-top: 0;
+  padding-top: 126px;
+  font-size: 40px;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;

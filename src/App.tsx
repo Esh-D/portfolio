@@ -8,18 +8,19 @@ import Projects from './components/Projects/Projects'
 
 function App() {
   return (
-    <>
+    <div>
       <Navbar />
-      <div id="page-content">
-        <Hero />
-        <About />
-        <Projects />
-        <Contact />
-      </div>
+      <Hero />
+      <About />
+      <Projects />
+      <Contact />
       <Footer />
-    </>
+    </div>
   )
 }
+
+//Website not responsive (mainly navbar)
+//background blur, autoscroll
 
 export default App
 
