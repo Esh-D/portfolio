@@ -49,6 +49,7 @@ export default tseslint.config({
 })
 ```
 # portfolio-template
-"structure almost complete"
-![image](https://github.com/user-attachments/assets/857aff81-d3be-4c87-8864-25bad67bc5bd)
+"almost done"
+![image](https://github.com/user-attachments/assets/ab3106d1-4a39-4267-bfe0-dc7d1305a0a0)
+
 
